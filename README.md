@@ -1,0 +1,1 @@
+This is a Google home page clone using HTML and CSS. It mimics the familiar Google logo, search bar, and buttons, capturing the design essence of the original page.
